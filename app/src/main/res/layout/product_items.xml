@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/txtName"
-        android:text="Nombre del Prodcuto"
+        android:text="@string/txt_name"
         android:textSize="17sp"
         android:layout_below="@+id/imgProduct"
         android:textAlignment="center"
@@ -27,7 +27,7 @@
         android:layout_marginEnd="33dp" />
 
     <TextView
-        android:text="Costo"
+        android:text="@string/txt_price"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/txtPrice"

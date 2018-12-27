@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Natural chips App</string>
+    <string name="txt_price">Price:</string>
+    <string name="txt_name">Product name:</string>
+    <string name="txt_pickImage">Pick an Image:</string>
+    <string name="txt_addProdcut">Add current product</string>
+    <string name="txt_otherProdcuts">Show saved Products</string>
+    <string name="txt_update">Update</string>
+</resources>

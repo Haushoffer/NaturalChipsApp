@@ -7,8 +7,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:hint="Costo"
+        android:hint="@string/txt_price"
         android:ems="10"
         android:id="@+id/edtPrice"
         android:layout_centerVertical="true"
@@ -21,9 +20,8 @@
         android:id="@+id/edtName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
         android:ems="10"
-        android:hint="Nombre"
+        android:hint="@string/txt_name"
         android:layout_above="@+id/edtPrice"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -32,7 +30,7 @@
         android:layout_alignParentEnd="true" />
 
     <Button
-        android:text="Actualizar"
+        android:text="@string/txt_update"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnUpdate"
